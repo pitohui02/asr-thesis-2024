@@ -1,0 +1,25 @@
+# Core Libraries
+tensorflow
+torchaudio
+transformers
+librosa
+soundfile
+
+# Data Handling
+pandas
+numpy
+datasets
+
+# Evaluation
+jiwer
+
+# Audio Preprocessing
+scipy
+pydub
+
+# Visualization
+matplotlib
+seaborn
+
+# TensorFlow ASR (optional)
+# tensorflow_asr
