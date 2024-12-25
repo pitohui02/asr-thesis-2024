@@ -1,5 +1,4 @@
 # Core Libraries
-tensorflow
 torchaudio
 transformers
 librosa
