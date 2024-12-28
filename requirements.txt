@@ -20,5 +20,4 @@ pydub
 matplotlib
 seaborn
 
-# TensorFlow ASR (optional)
-# tensorflow_asr
+ipykernel
